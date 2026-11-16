@@ -1,0 +1,5 @@
+# Production WSGI HTTP Server for Web Hosting (Render, Railway, Heroku, VPS)
+gunicorn>=21.2.0
+
+# Optional WSGI server for Windows/Cross-platform hosting
+waitress>=2.1.2
